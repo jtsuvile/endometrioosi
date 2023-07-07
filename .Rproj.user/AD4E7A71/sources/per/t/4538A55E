@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1639130185914.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3303324751",
+    "id" : "4538A55E",
+    "lastKnownWriteTime" : 1639132113,
+    "last_content_update" : 1639132113952,
+    "path" : "~/Documents/projects/endometrioosi/code_endometrioosi/exploratory_analyses.R",
+    "project_path" : "exploratory_analyses.R",
+    "properties" : {
+        "cursorPosition" : "7,51",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

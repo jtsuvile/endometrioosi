@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1663319609569.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1022054198",
+    "id" : "4A0DD107",
+    "lastKnownWriteTime" : 1663321155,
+    "last_content_update" : 1663321155506,
+    "path" : "~/Documents/projects/kipupotilaat/code/feels_now_plots_hki.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "69,0",
+        "scrollLine" : "37"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

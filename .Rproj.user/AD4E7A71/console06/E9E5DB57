@@ -1,0 +1,109 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Documents/projects/endometrioosi/code_endometrioosi[?1034h(base) mac00366:code_endometrioosi juusu53$ cd ..
+]0;~/Documents/projects/endometrioosi(base) mac00366:endometrioosi juusu53$ cd kipupo[K[K[K[K[K[K[K ..
+]0;~/Documents/projects(base) mac00366:projects juusu53$ cd l[Kkipupotilaat/
+]0;~/Documents/projects/kipupotilaat(base) mac00366:kipupotilaat juusu53$ ls
+CERE_abstrakti.docx					kipu_syyskuu_2019.pptx
+CERE_abstrakti_LN.docx					kipu_traced_outline_back.png
+CERE_abstrakti_submitted.docx				kipu_traced_outline_front.png
+CERE_abstrakti_submitted.pdf				kipuklinikka
+CERE_abstrakti_v_2.docx					kipuklinikka.pptx
+CERE_presentation.pptx					kipuklinikka_kiputyyppi.csv
+IASP abstract Toronto._EK.LN_JS.docx			kipuklinikka_kiputyyppi.xlsx
+IKE-day-posteri.pptx					kipuklinikka_subname_batch_2_for_Pirjo.csv
+KI_first_look_at_data.pptx				kipuklinikka_subname_batch_2_for_Pirjo.numbers
+KI_prelim_analyses.pdf					kipuprojekti_code.zip
+KI_prelim_analyses.pptx					kivun_luokitteluperusteista.pdf
+Kipuklinikka patients colouring thresholds		kroonisen_kivun_anatominen_sijainti.pdf
+Kipuklinikka patients with ??? qc colouring		kroonisen_kivun_esiintyvyys.pdf
+Pain and bodily maps of emotions 7.4.17_v2_LN_JS.docx	kroonisen_kivun_esiintyvyys_ikaryhmissa.pdf
+ROIdefinitions.svg					kroonisen_kivun_luokitus.pdf
+Results_bg.docx						main.css
+Screenshot 2018-03-29 15.30.26.png			methods_fig copy.pdf
+Screenshot 2018-03-29 15.30.36.png			methods_fig.ai
+Screenshot 2018-03-29 15.30.45.png			methods_fig_frontback.pdf
+Screenshot 2018-03-29 16.43.51.png			mittaussuunnitelma v2.docx
+Suvilehto_CERE_2018.pdf					nelio.pdf
+Table7_APA.doc						nelio.png
+ammatit_FI.csv						nelio_png.pdf
+ammatit_FI.tx						nelio_png.png
+ammatit_FI.txt						nelio_smaller.png
+ammatit_SE.csv						ohjeet.docx
+ammatit_SE.xlsx						pain_se_test_subjects_list
+ammatit_SE_clean.xlsx					plotting_qc.fig
+ammatit_SE_new.csv					plotting_qc.jpg
+ammatit_SE_raw.csv					plotting_qc_base2.jpg
+ammatit_SE_raw.xlsx					preliminary_results_for_CERE_abstracts.pptx
+ammatit_kaannos.txt					python_code
+ammatit_raw.xlsx					python_code_testing
+basic_subj_info.csv					results_for_CERE_abstracts.pdf
+code							results_for_CERE_abstracts.pptx
+coding_keys						results_for_CERE_abstracts_smaller.pdf
+control_fi_no_acute_pain_subs				ruotsi
+data							slides_CERE_2018.pdf
+emo_pain_extra_figs.pptx				slides_CERE_2018.pptx
+environment.yml						slides_CERE_2018_smaller.pdf
+figures							slides_CERE_2018_to_online.pdf
+get_data_from_tar.sh					slides_CERE_2018_to_pdf.pptx
+keholliset_tuntemukset_ja_kipu_marraskuu_2019.pdf	some_distributions_bg.pdf
+kipu_ROI_new.png					sub_age_and_gender.pdf
+kipu_alustava_analyysi.pdf				subnums_for_kipuklinikka_march_2018.csv
+kipu_alustava_analyysi.pptx				teksti
+kipu_alustava_analyysi_smaller.pdf			testsubs
+kipu_ja_tunteet_syyskuu_2019.pdf			translations_manual
+kipu_marraskuu_2019.pdf					words_emotions_FI.txt
+kipu_marraskuu_2019.pptx				words_pain_FI.txt
+kipu_marraskuu_2020.pptx				words_sensitive_FI.txt
+kipu_marraskuu_2020_updated.pptx			~$in and bodily maps of emotions 7.4.17_v2_LN_JS.docx
+kipu_mask_with_outline_front.png			~$kipu_marraskuu_2020_updated.pptx
+kipu_subs.txt						~$ttaussuunnitelma v2.docx
+]0;~/Documents/projects/kipupotilaat(base) mac00366:kipupotilaat juusu53$ cd cod[K[K[K[K [K code
+]0;~/Documents/projects/kipupotilaat/code(base) mac00366:code juusu53$ ls
+add_pain_info.R						feels_now_plots.R
+bg_info_correlations.R					feels_now_plots_hki.R
+bg_info_correlations_KI.R				feels_now_plots_sthlm.R
+bg_info_correlations_kipu.R				helper_functions_for_r_analysis.R
+by_roi_analyses_emotions.R				load_bg_data.R
+by_roi_analyses_sensitivity.R				make_sub_nums.R
+code.Rproj						old_matlab_code
+combine_endo_scales_and_emotions.R			quick_distribution_plots.R
+compare_kipu_and_matched_controls.R			remove_people_with_not_enough_colouring_from_sublist.R
+compare_old_and_new_matches.R				roi_analyses.R
+compare_pain.R						roi_analyses_emotions.R
+compare_sensitivity.R					teksti
+demographics.R
+]0;~/Documents/projects/kipupotilaat/code(base) mac00366:code juusu53$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   .Rhistory[m
+	[31mmodified:   bg_info_correlations_kipu.R[m
+	[31mmodified:   compare_kipu_and_matched_controls.R[m
+	[31mmodified:   compare_pain.R[m
+	[31mmodified:   compare_sensitivity.R[m
+	[31mmodified:   feels_now_plots_hki.R[m
+	[31mmodified:   roi_analyses.R[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mby_roi_analyses_emotions.R[m
+	[31mby_roi_analyses_sensitivity.R[m
+	[31mcombine_endo_scales_and_emotions.R[m
+	[31mdemographics.R[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Documents/projects/kipupotilaat/code[?1034h(base) mac00366:code juusu53$ 

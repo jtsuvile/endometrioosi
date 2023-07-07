@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1663319584540.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4260202012",
+    "id" : "690D7F5A",
+    "lastKnownWriteTime" : 1663319125,
+    "last_content_update" : 1663319125,
+    "path" : "~/Documents/projects/kipupotilaat/code/compare_kipu_and_matched_controls.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "70,0",
+        "scrollLine" : "37"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1639148028942.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2092036624",
+    "id" : "B1596B27",
+    "lastKnownWriteTime" : 1639149886,
+    "last_content_update" : 1639149886815,
+    "path" : "~/Documents/projects/endometrioosi/code_endometrioosi/compare_pain.R",
+    "project_path" : "compare_pain.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

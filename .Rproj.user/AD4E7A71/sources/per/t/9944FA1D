@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1639133275719.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3148940695",
+    "id" : "9944FA1D",
+    "lastKnownWriteTime" : 1639148021,
+    "last_content_update" : 1639148021627,
+    "path" : "~/Documents/projects/endometrioosi/code_endometrioosi/compare_sensitivity.R",
+    "project_path" : "compare_sensitivity.R",
+    "properties" : {
+        "cursorPosition" : "84,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 15,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
